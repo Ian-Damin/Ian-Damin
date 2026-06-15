@@ -17,5 +17,6 @@
 </div>
 
 
-
-![Snake animation](https://github.com/Ian-Damin/Ian-Damin/blob/output/github-contribution-grid-snake.svg)
+<div align = center>
+<img src="https://raw.githubusercontent.com/Ian-Damin/Ian-Damin/output/snake.svg" alt="Snake animation" />
+</div>
