@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Ian!
 
-https://github-readme-stats.vercel.app/api?username=Ian-Damin&show_icons=true&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-Damin&show_icons=true&theme=dark)
 
 
 <div style="display: inline_block"><br>
