@@ -12,10 +12,13 @@
 ## 
 
 <div> 
+
+  
   <a href = "mailto:iandaminbogalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ian-damin-bogalho-alves-0658683b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## 
 
 <div align = center>
 <img src="https://raw.githubusercontent.com/Ian-Damin/Ian-Damin/output/snake.svg" alt="Snake animation" />
