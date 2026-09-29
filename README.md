@@ -1,9 +1,6 @@
 
 ## Olá, eu sou o Ian!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-Damin&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Damin&layout=compact&theme=dark)
-
 
 
 <div style="display: inline_block"><br>
